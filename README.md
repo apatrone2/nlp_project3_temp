@@ -1,1 +1,1 @@
-# nlp_project3_temp
+Temporary folder for course files
